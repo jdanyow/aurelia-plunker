@@ -1,5 +1,5 @@
 /* */ 
-var numeral = require("../../numeral");
+var numeral = require('../../numeral');
 exports.manipulate = {
   add: function(test) {
     test.expect(4);

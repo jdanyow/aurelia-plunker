@@ -1,5 +1,5 @@
 /* */ 
-var numeral = require("../../numeral");
+var numeral = require('../../numeral');
 exports.misc = {
   value: function(test) {
     test.expect(5);

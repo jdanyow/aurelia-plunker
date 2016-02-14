@@ -1,5 +1,5 @@
 /* */ 
-var fs = require("fs");
+var fs = require('fs');
 module.exports = function(grunt) {
   var minifiedFiles = {
     'min/numeral.min.js': ['numeral.js'],

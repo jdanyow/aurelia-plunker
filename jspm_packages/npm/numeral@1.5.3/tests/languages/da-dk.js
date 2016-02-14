@@ -1,6 +1,6 @@
 /* */ 
-var numeral = require("../../numeral"),
-    language = require("../../languages/da-dk");
+var numeral = require('../../numeral'),
+    language = require('../../languages/da-dk');
 numeral.language('da-dk', language);
 exports['language:da-dk'] = {
   setUp: function(callback) {

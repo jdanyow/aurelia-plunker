@@ -3146,4 +3146,4 @@
     else
       __g.core = __e;
   }();
-})(require("process"));
+})(require('process'));
